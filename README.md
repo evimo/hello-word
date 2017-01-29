@@ -1,2 +1,4 @@
 # hello-word
-just another repository 
+
+my name is Evi,
+I am an aesthetic and I'm trying to coding 
